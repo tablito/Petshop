@@ -6,7 +6,7 @@ namespace GUI
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("PET SHOP");
+            Console.WriteLine("SISTEMA - PET SHOP");
         }
     }
 }
