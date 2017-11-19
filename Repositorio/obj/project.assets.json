@@ -25,6 +25,29 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Util": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dominio.dll": {}
+        }
+      },
+      "Util/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Util.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Util.dll": {}
+        }
       }
     }
   },
@@ -169,10 +192,21 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Dominio/Dominio.csproj",
+      "msbuildProject": "../Dominio/Dominio.csproj"
+    },
+    "Util/1.0.0": {
+      "type": "project",
+      "path": "../Util/Util.csproj",
+      "msbuildProject": "../Util/Util.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "Dominio >= 1.0.0",
       "NETStandard.Library >= 2.0.0"
     ]
   },
@@ -203,7 +237,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Laura.Casa-PC\\Desktop\\Petshop.Solucao\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\Laura.Casa-PC\\Desktop\\Petshop.Solucao\\Dominio\\Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,10 @@
+C:\Users\Laura.Casa-PC\Desktop\Petshop.Solucao\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Laura.Casa-PC\Desktop\Petshop.Solucao\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\Laura.Casa-PC\Desktop\Petshop.Solucao\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Users\Laura.Casa-PC\Desktop\Petshop.Solucao\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Users\Laura.Casa-PC\Desktop\Petshop.Solucao\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\Laura.Casa-PC\Desktop\Petshop.Solucao\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\Laura.Casa-PC\Desktop\Petshop.Solucao\Dominio\bin\Debug\netstandard2.0\Util.dll
+C:\Users\Laura.Casa-PC\Desktop\Petshop.Solucao\Dominio\bin\Debug\netstandard2.0\Util.pdb
+C:\Users\Laura.Casa-PC\Desktop\Petshop.Solucao\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Users\Laura.Casa-PC\Desktop\Petshop.Solucao\Dominio\obj\Debug\netstandard2.0\Dominio.pdb

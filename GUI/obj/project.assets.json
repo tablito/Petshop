@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Laura.Casa-PC\\Desktop\\Petshop.Solucao\\Console\\Console.csproj",
-      "projectName": "Console",
-      "projectPath": "C:\\Users\\Laura.Casa-PC\\Desktop\\Petshop.Solucao\\Console\\Console.csproj",
+      "projectUniqueName": "C:\\Users\\Laura.Casa-PC\\Desktop\\Petshop.Solucao\\GUI\\GUI.csproj",
+      "projectName": "GUI",
+      "projectPath": "C:\\Users\\Laura.Casa-PC\\Desktop\\Petshop.Solucao\\GUI\\GUI.csproj",
       "packagesPath": "C:\\Users\\Laura.Casa-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Laura.Casa-PC\\Desktop\\Petshop.Solucao\\Console\\obj\\",
+      "outputPath": "C:\\Users\\Laura.Casa-PC\\Desktop\\Petshop.Solucao\\GUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

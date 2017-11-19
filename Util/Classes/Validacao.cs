@@ -2,7 +2,7 @@
 
 namespace Util
 {
-    public class Class1
+    public class Validacao
     {
     }
 }

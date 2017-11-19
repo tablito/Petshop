@@ -1,0 +1,10 @@
+C:\Users\Laura.Casa-PC\Desktop\Petshop.Solucao\GUI\bin\Debug\netcoreapp2.0\GUI.deps.json
+C:\Users\Laura.Casa-PC\Desktop\Petshop.Solucao\GUI\bin\Debug\netcoreapp2.0\GUI.runtimeconfig.json
+C:\Users\Laura.Casa-PC\Desktop\Petshop.Solucao\GUI\bin\Debug\netcoreapp2.0\GUI.runtimeconfig.dev.json
+C:\Users\Laura.Casa-PC\Desktop\Petshop.Solucao\GUI\bin\Debug\netcoreapp2.0\GUI.dll
+C:\Users\Laura.Casa-PC\Desktop\Petshop.Solucao\GUI\bin\Debug\netcoreapp2.0\GUI.pdb
+C:\Users\Laura.Casa-PC\Desktop\Petshop.Solucao\GUI\obj\Debug\netcoreapp2.0\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Laura.Casa-PC\Desktop\Petshop.Solucao\GUI\obj\Debug\netcoreapp2.0\GUI.AssemblyInfoInputs.cache
+C:\Users\Laura.Casa-PC\Desktop\Petshop.Solucao\GUI\obj\Debug\netcoreapp2.0\GUI.AssemblyInfo.cs
+C:\Users\Laura.Casa-PC\Desktop\Petshop.Solucao\GUI\obj\Debug\netcoreapp2.0\GUI.dll
+C:\Users\Laura.Casa-PC\Desktop\Petshop.Solucao\GUI\obj\Debug\netcoreapp2.0\GUI.pdb
